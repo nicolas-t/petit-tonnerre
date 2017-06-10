@@ -5,7 +5,7 @@ var myPosition = {
     latitude: 42.46, // the latitude of my position
     longitude: 20.63 // the longitude of my position
 }
-var radius = 15000 // the maximum distance around my potion a strike will be detected, (in meters)
+var radius = 15000 // the maximum distance around my position a strike will be detected, (in meters)
 var soundSpeed = 337 // the speed of the sound, (in meters per seconde)
 
 try {
