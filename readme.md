@@ -9,7 +9,7 @@ Detect lighting strikes around you and beeps as the thunder approches :zap:
 
 ## Configuration
 open `petit-tonnerre.js`,  
-update `myPosition` with your poition's latitude and longitude.
+update `myPosition` with your position's latitude and longitude.
 
 ## Usage
 run `node petit-tonnerre.js` from the `petit-tonnerre` folder.  
