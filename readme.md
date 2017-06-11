@@ -1,6 +1,6 @@
 # Petit Tonnerre
 
-Detect lightning strikes around you and beeps as the thunder approches :zap:
+Detects lightning strikes around you and beeps as the thunder approches :zap:
 
 ## Installation
 `git clone https://github.com/nicolas-t/petit-tonnerre.git`  
